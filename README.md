@@ -76,13 +76,6 @@ X_BEARER_TOKEN=your_bearer_token X_API_KEY=your_api_key X_API_SECRET=your_api_se
 - Automates approximately 91 tweets per month (3 posts/day at 08:00, 15:30, 20:00 PST) through September 18, 2025.
 - Handles ~200 scheduled posts currently, with scalability for additional content.
 
-## Skills Demonstrated
-- **Prompt Engineering**: Crafted 200+ existential tweets, optimizing for brevity and philosophical depth within X’s 280-character limit.
-- **Python Development**: Utilized libraries for API interaction, data handling, and logging.
-- **Cloud Computing**: Mastered GCP Functions and Scheduler for serverless automation.
-- **API Integration**: Seamlessly connected X and Google Sheets APIs.
-- **Problem-Solving**: Overcame deployment and time zone challenges with effective debugging.
-
 ## Future Enhancements
 - **AI Integration**: Plan to incorporate an AI model to generate original existential tweets, log them in the Sheet, and automate posting—enhancing prompt engineering capabilities.
 - **Performance Optimization**: Explore filtering or batching for larger datasets.
