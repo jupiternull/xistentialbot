@@ -1,7 +1,7 @@
 # xistentialbot: Automated Existential Tweet Generator and Poster
 
 ## Overview
-`xistentialbot` is a Python-based automation tool designed to schedule and post existential, thought-provoking tweets to the X platform, leveraging Google Sheets for content management and Google Cloud Platform (GCP) for serverless deployment. This project showcases my ability to integrate APIs, deploy cloud-based solutions, and craft concise, impactful content, building skills directly applicable to prompt engineering and AI-driven development. Currently, it automates the posting of manually curated tweets, but I have plans to incorporate AI-generated content in the future. The project draws inspiration from some of my favorite works exploring human nature, technology, and societal absurdity (listed below).
+`xistentialbot` is a Python-based automation tool designed to schedule and post existential ramblings to the X platform, leveraging Google Sheets for content management and Google Cloud Platform for serverless deployment. Currently, it automates the posting of manually curated content, but I have plans to incorporate autonomously generated content in the future. The project draws inspiration from some of my favorite works exploring human nature, technology, and societal absurdity (listed below).
 
 ## Inspirations
 This project draws inspiration from the following works, which shaped its existential and philosophical tone through prompting:
@@ -84,15 +84,10 @@ X_BEARER_TOKEN=your_bearer_token X_API_KEY=your_api_key X_API_SECRET=your_api_se
 - **Problem-Solving**: Overcame deployment and time zone challenges with effective debugging.
 
 ## Future Enhancements
-- **AI Integration**: Plan to incorporate an AI model (e.g., OpenAI) to generate original existential tweets, log them in the Sheet, and automate posting—enhancing prompt engineering capabilities.
+- **AI Integration**: Plan to incorporate an AI model to generate original existential tweets, log them in the Sheet, and automate posting—enhancing prompt engineering capabilities.
 - **Performance Optimization**: Explore filtering or batching for larger datasets.
 - **Monitoring**: Add alerts for failures via GCP Cloud Monitoring.
 
 ## Acknowledgments
-- Built with guidance from xAI’s Grok 3, leveraging its troubleshooting and optimization expertise.
 - Inspired by existential philosophy and the potential of automation in content creation.
 
-## Contact
-- GitHub: [jakeherron](https://github.com/jakeherron)
-- Email: thefinalburden@proton.me
-- LinkedIn: (https://www.linkedin.com/in/jacob-herron-308810221/)
